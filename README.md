@@ -11,7 +11,7 @@ This will include tracking the time elapsed between when a video is rented by a 
 - C# (desktop client)
 - JavaScript (web client)
 - HTML (web client)
-- Android (mobile client)
+- Android (Kotlin) (mobile client)
 
 ## Frameworks
 - .NET Framework
